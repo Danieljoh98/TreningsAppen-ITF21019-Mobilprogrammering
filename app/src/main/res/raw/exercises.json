@@ -1,0 +1,383 @@
+[
+  {
+    "name": "Barbell Curl",
+    "description": "Standard bicep curl with a barbell.",
+    "steps": [
+      "Stand with feet shoulder-width.",
+      "Hold barbell with underhand grip.",
+      "Curl barbell towards shoulders.",
+      "Lower slowly to start position."
+    ],
+    "difficulty": "Medium",
+    "muscleGroup": "Biceps",
+    "imageUrl": "https://i.imgur.com/6ssrbXH.png"
+  },
+  {
+    "name": "Barbell Bench Press",
+    "description": "Classic exercise for chest strength.",
+    "steps": [
+      "Lie back on a flat bench.",
+      "Grip the barbell with both hands.",
+      "Lower the barbell to your chest.",
+      "Press the bar back to the starting position."
+    ],
+    "difficulty": "Medium",
+    "muscleGroup": "Chest",
+    "imageUrl": "https://i.imgur.com/CJrwwGH_d.webp"
+  },
+  {
+    "name": "Bicycle Crunches",
+    "description": "Dynamic abs exercise.",
+    "steps": [
+      "Lie on your back, hands behind head.",
+      "Bring knees in towards chest.",
+      "Lift shoulder blades off ground.",
+      "Rotate to bring elbow to opposite knee."
+    ],
+    "difficulty": "Medium",
+    "muscleGroup": "Abs",
+    "imageUrl": "https://i.imgur.com/GvTWkSa.png"
+  },
+  {
+    "name": "Cable Tricep Pushdown",
+    "description": "Tricep exercise using a cable machine.",
+    "steps": [
+      "Stand at cable machine.",
+      "Grip bar, elbows at sides.",
+      "Push down until arms straight.",
+      "Return slowly to start."
+    ],
+    "difficulty": "Easy",
+    "muscleGroup": "Triceps",
+    "imageUrl": "https://i.imgur.com/GWcozQK_d.webp"
+  },
+  {
+    "name": "Calf Raises",
+    "description": "Raises to strengthen calves.",
+    "steps": [
+      "Stand on edge of step",
+      "Raise heels above step.",
+      "Lower heels below step level."
+    ],
+    "difficulty": "Easy",
+    "muscleGroup": "Calves",
+    "imageUrl": "https://i.imgur.com/K4mxF8b.png"
+  },
+  {
+    "name": "Chest Fly",
+    "description": "Exercise to stretch and work chest.",
+    "steps": [
+      "Lie on bench with dumbbells.",
+      "Extend arms above chest.",
+      "Open arms wide, elbows slightly bent.",
+      "Bring weights together."
+    ],
+    "difficulty": "Medium",
+    "muscleGroup": "Chest",
+    "imageUrl": "https://i.imgur.com/CJrwwGH_d.webp"
+  },
+  {
+    "name": "Concentration Curl",
+    "description": "Isolated bicep curl, seated.",
+    "steps": [
+      "Sit on bench, legs apart.",
+      "Rest elbow on inner thigh.",
+      "Curl weight towards shoulder.",
+      "Lower slowly, repeat."
+    ],
+    "difficulty": "Medium",
+    "muscleGroup": "Biceps",
+    "imageUrl": "https://i.imgur.com/6ssrbXH.png"
+  },
+  {
+    "name": "Deadlift",
+    "description": "Compound exercise targeting hamstrings.",
+    "steps": [
+      "Stand with feet under bar.",
+      "Bend and grip bar.",
+      "Lift bar, keep back straight.",
+      "Lower bar to ground."
+    ],
+    "difficulty": "Hard",
+    "muscleGroup": "Hamstrings",
+    "imageUrl": "https://i.imgur.com/Ki2cxni.png"
+  },
+  {
+    "name": "Dumbbell Fly",
+    "description": "Chest exercise using dumbbells.",
+    "steps": [
+      "Lie on bench, weights in hands.",
+      "Extend arms out to sides.",
+      "Bring weights together above chest.",
+      "Control weights back to sides."
+    ],
+    "difficulty": "Medium",
+    "muscleGroup": "Chest",
+    "imageUrl": "https://i.imgur.com/CJrwwGH_d.webp"
+  },
+  {
+    "name": "Dumbbell Tricep Extension",
+    "description": "Overhead extension for triceps.",
+    "steps": [
+      "Stand holding dumbbell overhead.",
+      "Bend elbows lowering weight.",
+      "Extend arms fully overhead."
+    ],
+    "difficulty": "Medium",
+    "muscleGroup": "Triceps",
+    "imageUrl": "https://i.imgur.com/GWcozQK_d.webp"
+  },
+  {
+    "name": "Front Raise",
+    "description": "Front shoulder strengthening.",
+    "steps": [
+      "Stand with weights.",
+      "Lift arms straight in front.",
+      "Raise to eye level.",
+      "Lower back slowly."
+    ],
+    "difficulty": "Easy",
+    "muscleGroup": "Shoulders",
+    "imageUrl": "https://i.imgur.com/FbMj47W.png"
+  },
+  {
+    "name": "Glute-Ham Raise",
+    "description": "Exercise focusing on hamstrings and glutes.",
+    "steps": [
+      "Use GHD machine.",
+      "Secure feet, face down.",
+      "Lift torso with hamstrings.",
+      "Lower back down slowly."
+    ],
+    "difficulty": "Hard",
+    "muscleGroup": "Hamstrings",
+    "imageUrl": "https://i.imgur.com/Ki2cxni.png"
+  },
+  {
+    "name": "Hammer Curl",
+    "description": "Bicep curls with a neutral grip.",
+    "steps": [
+      "Stand upright holding dumbbells.",
+      "Keep elbows close to torso.",
+      "Curl weights, keep wrists straight.",
+      "Lower slowly to starting position."
+    ],
+    "difficulty": "Easy",
+    "muscleGroup": "Biceps",
+    "imageUrl": "https://i.imgur.com/6ssrbXH.png"
+  },
+  {
+    "name": "Incline Bench Press",
+    "description": "Upper chest press exercise.",
+    "steps": [
+      "Lie on incline bench.",
+      "Grip barbell, lift off rack.",
+      "Lower to upper chest.",
+      "Push bar back to start."
+    ],
+    "difficulty": "Medium",
+    "muscleGroup": "Chest",
+    "imageUrl": "https://i.imgur.com/CJrwwGH_d.webp"
+  },
+  {
+    "name": "Lateral Raise",
+    "description": "Shoulder exercise with dumbbells.",
+    "steps": [
+      "Stand holding dumbbells.",
+      "Lift arms to sides, elbow bent.",
+      "Raise until shoulder height.",
+      "Lower slowly to sides."
+    ],
+    "difficulty": "Easy",
+    "muscleGroup": "Shoulders",
+    "imageUrl": "https://i.imgur.com/FbMj47W.png"
+  },
+  {
+    "name": "Leg Curl",
+    "description": "Isolated hamstring curl on machine.",
+    "steps": [
+      "Lie face down on machine.",
+      "Curl legs towards body.",
+      "Return to start position slowly."
+    ],
+    "difficulty": "Easy",
+    "muscleGroup": "Hamstrings",
+    "imageUrl": "https://i.imgur.com/Ki2cxni.png"
+  },
+  {
+    "name": "Leg Press",
+    "description": "Quadricep exercise on machine.",
+    "steps": [
+      "Sit on machine, feet on platform.",
+      "Extend legs fully.",
+      "Lower towards chest slowly.",
+      "Push back to start position."
+    ],
+    "difficulty": "Easy",
+    "muscleGroup": "Quads",
+    "imageUrl": "https://i.imgur.com/MnFaNO9_d.webp"
+  },
+  {
+    "name": "Leg Raises",
+    "description": "Core exercise lying flat.",
+    "steps": [
+      "Lie flat on back.",
+      "Lift legs straight up.",
+      "Lower legs without touching floor.",
+      "Raise legs back up."
+    ],
+    "difficulty": "Medium",
+    "muscleGroup": "Abs",
+    "imageUrl": "https://i.imgur.com/GvTWkSa.png"
+  },
+  {
+    "name": "Lunges",
+    "description": "Exercise for leg and glute strength.",
+    "steps": [
+      "Stand upright.",
+      "Step forward into lunge.",
+      "Lower hip until knee bends.",
+      "Push back to start."
+    ],
+    "difficulty": "Medium",
+    "muscleGroup": "Quads",
+    "imageUrl": "https://i.imgur.com/MnFaNO9_d.webp"
+  },
+  {
+    "name": "Plank",
+    "description": "Static hold to strengthen core.",
+    "steps": [
+      "Lie face down.",
+      "Lift body on toes and forearms.",
+      "Hold position, keep back straight."
+    ],
+    "difficulty": "Easy",
+    "muscleGroup": "Abs",
+    "imageUrl": "https://i.imgur.com/GvTWkSa.png"
+  },
+  {
+    "name": "Preacher Curl",
+    "description": "Bicep curl using a preacher bench.",
+    "steps": [
+      "Sit at preacher bench.",
+      "Grip bar with underhand hold.",
+      "Curl bar towards chin.",
+      "Lower back with control."
+    ],
+    "difficulty": "Medium",
+    "muscleGroup": "Biceps",
+    "imageUrl": "https://i.imgur.com/6ssrbXH.png"
+  },
+  {
+    "name": "Push-ups",
+    "description": "Classic bodyweight exercise for chest.",
+    "steps": [
+      "Start in plank position.",
+      "Lower body by bending elbows.",
+      "Push up to start position."
+    ],
+    "difficulty": "Easy",
+    "muscleGroup": "Chest",
+    "imageUrl": "https://i.imgur.com/CJrwwGH_d.webp"
+  },
+  {
+    "name": "Reverse Fly",
+    "description": "Shoulder and upper back exercise.",
+    "steps": [
+      "Bend at hips, chest forward.",
+      "Hold dumbbells, arms extended.",
+      "Lift arms to sides.",
+      "Control back to start."
+    ],
+    "difficulty": "Easy",
+    "muscleGroup": "Shoulders",
+    "imageUrl": "https://i.imgur.com/FbMj47W.png"
+  },
+  {
+    "name": "Russian Twist",
+    "description": "Core exercise with rotational movement.",
+    "steps": [
+      "Sit on floor, knees bent.",
+      "Lean back slightly, hold weight.",
+      "Twist torso side to side."
+    ],
+    "difficulty": "Medium",
+    "muscleGroup": "Abs",
+    "imageUrl": "https://i.imgur.com/GvTWkSa.png"
+  },
+  {
+    "name": "Shoulder Press",
+    "description": "Press lifting weights overhead.",
+    "steps": [
+      "Sit or stand with weights.",
+      "Lift weights above head.",
+      "Lower back to shoulder height."
+    ],
+    "difficulty": "Medium",
+    "muscleGroup": "Shoulders",
+    "imageUrl": "https://i.imgur.com/FbMj47W.png"
+  },
+  {
+    "name": "Sit-ups",
+    "description": "Classic abdominal strengthening exercise.",
+    "steps": [
+      "Lie on back, knees bent.",
+      "Tuck chin, lift torso up.",
+      "Touch knees with elbows.",
+      "Lower back to ground."
+    ],
+    "difficulty": "Easy",
+    "muscleGroup": "Abs",
+    "imageUrl": "https://i.imgur.com/GvTWkSa.png"
+  },
+  {
+    "name": "Skull Crusher",
+    "description": "Lying tricep extension exercise.",
+    "steps": [
+      "Lie on bench with dumbbells.",
+      "Extend arms above chest.",
+      "Bend elbows, lower weights.",
+      "Extend to start position."
+    ],
+    "difficulty": "Hard",
+    "muscleGroup": "Triceps",
+    "imageUrl": "https://i.imgur.com/GWcozQK_d.webp"
+  },
+  {
+    "name": "Squats",
+    "description": "Basic squat with or without weight.",
+    "steps": [
+      "Stand with feet hip-width.",
+      "Bend knees, lower into squat.",
+      "Keep back straight, return to stand."
+    ],
+    "difficulty": "Medium",
+    "muscleGroup": "Quads",
+    "imageUrl": "https://i.imgur.com/MnFaNO9_d.webp"
+  },
+  {
+    "name": "Tricep Dip",
+    "description": "Bodyweight exercise for triceps.",
+    "steps": [
+      "Use parallel bars or bench.",
+      "Lower body by bending elbows.",
+      "Push up to starting position."
+    ],
+    "difficulty": "Medium",
+    "muscleGroup": "Triceps",
+    "imageUrl": "https://i.imgur.com/GWcozQK_d.webp"
+  },
+  {
+    "name": "Wall Sit",
+    "description": "Isometric hold for quads.",
+    "steps": [
+      "Stand against wall.",
+      "Slide down into seated position.",
+      "Hold position, back flat.",
+      "Maintain for time."
+    ],
+    "difficulty": "Medium",
+    "muscleGroup": "Quads",
+    "imageUrl": "https://i.imgur.com/MnFaNO9_d.webp"
+  }
+]

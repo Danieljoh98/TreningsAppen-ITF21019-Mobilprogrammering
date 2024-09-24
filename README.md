@@ -1,1 +1,1 @@
-# TreningsAppen-ITF21019-Mobilprogrammering
+# TreningsAppen
